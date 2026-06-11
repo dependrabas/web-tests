@@ -1,0 +1,6 @@
+{
+  "name": "Trongsa College CLCS",
+  "description": "Dynamic responsive portal with admin dashboard for the College of Language and Culture Studies (CLCS) / Trongsa College of Heritage and Contemporary Studies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
